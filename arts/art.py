@@ -16,10 +16,10 @@ Copy these codes and paste it before the text for the color your wish
 ® = random
 '''
 
-# Happy Birthday Love
+# Happy Birthday Shaktibhai
 '''
 https://patorjk.com/software/taag/#p=display&f=Crawford2&t=Happy%20Birthday%0A%20%20%20%20%20%20Name
-Go to the above link and generate art to replace 'Happy Birthday Love' with other text you wish to display.
+Go to the above link and generate art to replace 'Happy Birthday Shaktibhai' with other text you wish to display.
 '''
 
 mainArt = \
